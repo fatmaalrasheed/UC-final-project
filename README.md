@@ -3,7 +3,7 @@
 <div dir="rtl">
 
 ### فاطمه محمد الرشيد
-
+### Project Name
 
 ### where to go?
 
@@ -13,8 +13,7 @@
 
 في صفحة أخرى يوجد زر عند الضغط عليه سوف يقترح عليكم البرنامج مكان تذهبون إليه بشكل عشوائي.
 
-
-# 
+# Future Work 
 - add favorite places page.
 - add more categories and places
 
